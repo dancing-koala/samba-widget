@@ -15,6 +15,10 @@ When you click on it, it starts a funny little song which only repeats "On s'en 
 
 Dunno, sorry.
 
+## Download
+
+For those who just desire to see it in action, [download it here](https://github.com/dancing-koala/samba-widget/blob/master/samba-debug-v1.apk?raw=true).
+
 ## Resources
 
 [On s'en bat les couilles](https://www.youtube.com/watch?v=XoDY9vFAaG8) (Original song)
