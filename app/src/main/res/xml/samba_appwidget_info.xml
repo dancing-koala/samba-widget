@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:initialLayout="@layout/appwidget_samba"
+    android:minHeight="@dimen/appwidget_size"
+    android:minResizeHeight="@dimen/appwidget_size"
+    android:minResizeWidth="@dimen/appwidget_size"
+    android:minWidth="@dimen/appwidget_size"
+    android:resizeMode="horizontal|vertical"
+    android:updatePeriodMillis="@integer/samba_appwidget_update_interval"
+    android:widgetCategory="home_screen" />
